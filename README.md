@@ -1,4 +1,4 @@
-### Welcome to Ficlindie's repo!
+# Welcome to Ficlindie's repo!
 
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG91OTJjdGs3bTR1bnoxZWoyMGpscHl6am90NTg5YXkzZnB3cXFyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuJpMdkQhWr4tnz58N/giphy.gif)
 
@@ -21,11 +21,18 @@ Through this interaction between technology and human talent, we intend to offer
 
 
 ## 🌆 Previous Edition pics
-Our 2022 poster:
+Our AI-enhanced 2022 poster:
 <p float="middle">
   <img src="./locandina1.jpg" width="32%" />
-  <img src="./locandina1.jpg" width="32%" /> 
+  <img src="./locandina2.jpg" width="32%" /> 
+  <img src="./locandina3.jpg" width="32%" />
+</p>
+
+Our AI-enhanced 2022 poster:
+<p float="middle">
   <img src="./locandina1.jpg" width="32%" />
+  <img src="./locandina2.jpg" width="32%" /> 
+  <img src="./locandina3.jpg" width="32%" />
 </p>
 
 
