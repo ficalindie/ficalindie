@@ -21,7 +21,8 @@ Through this interaction between technology and human talent, we intend to offer
 
 
 ## 🌆 Previous Edition pics
-![alt text](https://github.com/[ficalindie]/[ficalindie]/blob/[main]/fs_1.jpg?raw=true)
+Our 2022 poster:
+![alt text](https://github.com/ficalindie/ficalindie/locandina1.png "Logo Title Text 1")
 
 ## 🛒 Shop
 * ↪️ [Here!](http://ficalindie.bigcartel.com)
