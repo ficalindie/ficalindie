@@ -7,7 +7,7 @@
   <a href="mailto:ficalindiefest@gmail.com">
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Ficalindie | GMail" width="30px"/>
   </a>
-  
+-----------------------------------------------------------
 </p>
   <p align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG91OTJjdGs3bTR1bnoxZWoyMGpscHl6am90NTg5YXkzZnB3cXFyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuJpMdkQhWr4tnz58N/giphy.gif" width="40%"/>
