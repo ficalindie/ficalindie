@@ -22,10 +22,10 @@ Through this interaction between technology and human talent, we intend to offer
 
 ## 🌆 Previous Edition pics
 Our 2022 poster:
-<p float="left">
-  <img src="https://github.com/ficalindie/ficalindie/locandina1.jpg" width="100" />
-  <img src="https://github.com/ficalindie/ficalindie/locandina1.jpg" width="100" /> 
-  <img src="https://github.com/ficalindie/ficalindie/locandina1.jpg" width="100" />
+<p float="middle">
+  <img src="https://github.com/ficalindie/ficalindie/locandina1.jpg" width="32%" />
+  <img src="https://github.com/ficalindie/ficalindie/locandina1.jpg" width="32%" /> 
+  <img src="https://github.com/ficalindie/ficalindie/locandina1.jpg" width="32%" />
 </p>
 
 
