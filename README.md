@@ -48,9 +48,18 @@
 
   
   ## 🛒 Shop (GOOD STUFF)
-  * ↪️ [Here!](http://ficalindie.bigcartel.com)
+  ↪️ [Here!](http://ficalindie.bigcartel.com)
+
+  ## 🌇 La Genesi
+  [You know](http://ficalindie.bigcartel.com](https://www.youtube.com/watch?v=VrIq0mzVn98&ab_channel=Salento420)
 
 -----------------------------------------------------
-
-
+```python
+    assert tutti_li_beddhi_carusi in Salento
+    
+    for nu_cristianu in tutti_li_beddhi_carusi:
+      life_points[nu_cristianu] += 1
+      log.write('Mpunna moi')
+```
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG91OTJjdGs3bTR1bnoxZWoyMGpscHl6am90NTg5YXkzZnB3cXFyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuJpMdkQhWr4tnz58N/giphy.gif)
 </p>
