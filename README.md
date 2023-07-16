@@ -1,6 +1,12 @@
 <p align="center">
-  
   # Welcome to Ficalindie's repo!
+  <a href="https://www.instagram.com/ficalindie/">
+    <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Ficalindie | Instagram" width="30px"/>
+  </a>
+  <a href="ficalindiefest@gmail.com">
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Ficalindie | GMail" width="30px"/>
+  </a>
+  
 </p>
   <p align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG91OTJjdGs3bTR1bnoxZWoyMGpscHl6am90NTg5YXkzZnB3cXFyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuJpMdkQhWr4tnz58N/giphy.gif" width="40%"/>
@@ -70,7 +76,3 @@
 <p align="center">
     <img src="./img/logo_black.png" width="33%" />
   </p>
-
-<a href="https://www.instagram.com/ficalindie/">
-  <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Ficalindie | Instagram" width="30px"/>
-</a>
