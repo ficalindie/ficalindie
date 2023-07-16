@@ -70,3 +70,6 @@
 <p align="center">
     <img src="./img/logo_black.png" width="33%" />
   </p>
+
+<a href="https://www.instagram.com/ficalindie/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt=”Ficalindie | Instagram” width=”30px”/>
+</a>
