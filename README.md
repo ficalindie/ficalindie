@@ -14,7 +14,8 @@
   * 💻 funny repos
   
   ## 🌵 About us
-  We are a group of four young people from Corigliano d'Otranto, who have already achieved considerable success with the previous edition of the "Ficalindie Fest 2022" event last year, 
+  We are a group of five young people from [Corigliano d'Otranto](https://www.hdsalento.com/corigliano-dotranto/), 
+  who have already achieved considerable success with the previous edition of the "Ficalindie Fest 2022" event last year, 
   attracting more than 300 people to the suggestive [Castello De' Monti](https://www.beniculturalionline.it/location-4663_Castello-De%E2%80%99-Monti-.php).
   
   Our vision for this unique event is to create an immersive and immersive experience, where AI-generated art merges with the creativity and expressiveness of the musicians who will be performing live. 
