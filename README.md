@@ -48,6 +48,9 @@
 
   
   ## 🛒 Shop (GOOD STUFF)
+  * T-shirts
+  * Posterz
+  * Stickerz
   ↪️ [Here!](http://ficalindie.bigcartel.com)
 
   ## 🌇 La Genesi
