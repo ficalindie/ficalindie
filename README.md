@@ -4,7 +4,7 @@
   <a href="https://www.instagram.com/ficalindie/">
     <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Ficalindie | Instagram" width="30px"/>
   </a>
-  <a href="ficalindiefest@gmail.com">
+  <a href="mailto:ficalindiefest@gmail.com">
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Ficalindie | GMail" width="30px"/>
   </a>
   
