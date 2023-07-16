@@ -30,14 +30,14 @@ Our AI-enhanced 2022 poster:
 
 Our 2022 amazing artists:
 <p float="middle">
-  <img src="./fs_1.jpg" width="32%" />
+  <img src="./fs.png" width="32%" />
   <img src="./ms.jpg" width="32%" /> 
   <img src="./mn.jpg" width="32%" />
 </p>
 
 Our incredible location:
 <p float="middle">
-  <img src="./fs.jpg" width="100%"
+  <img src="./background.jpg" width="66%"
 </p>
 
 ## 🛒 Shop
