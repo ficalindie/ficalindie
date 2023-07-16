@@ -25,21 +25,21 @@
   ## 🌆 Previous Edition pics
   Our AI-enhanced 2022 poster:
   <p float="middle">
-    <img src="./locandina1.jpg" width="32%" />
-    <img src="./locandina2.jpg" width="32%" /> 
-    <img src="./locandina3.jpg" width="32%" />
+    <img src="./img/locandina1.jpg" width="32%" />
+    <img src="./img/locandina2.jpg" width="32%" /> 
+    <img src="./img/locandina3.jpg" width="32%" />
   </p>
   
   Our 2022 amazing artists:
   <p float="middle">
-    <img src="./fs.png" width="32%" />
-    <img src="./ms.jpg" width="32%" /> 
-    <img src="./mn.jpg" width="32%" />
+    <img src="./img/fs.png" width="32%" />
+    <img src="./img/ms.jpg" width="32%" /> 
+    <img src="./img/mn.jpg" width="32%" />
   </p>
   
   Our incredible location:
   <p float="middle">
-    <img src="./background.jpg" width="33%"
+    <img src="./img/background.jpg" width="33%"
   </p>
 
   ## 🤖 Funny repos 
@@ -61,5 +61,5 @@
       life_points[nu_cristianu] += 1
       log.write('Mpunna moi')
 ```
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG91OTJjdGs3bTR1bnoxZWoyMGpscHl6am90NTg5YXkzZnB3cXFyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuJpMdkQhWr4tnz58N/giphy.gif)
+![Alt Text](./img/logo_black.jpg)
 </p>
