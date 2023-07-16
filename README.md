@@ -51,7 +51,7 @@
   ↪️ [Here!](http://ficalindie.bigcartel.com)
 
   ## 🌇 La Genesi
-  [You know](http://ficalindie.bigcartel.com](https://www.youtube.com/watch?v=VrIq0mzVn98&ab_channel=Salento420)
+  [You know](https://www.youtube.com/watch?v=VrIq0mzVn98&ab_channel=Salento420)
 
 -----------------------------------------------------
 ```python
