@@ -23,7 +23,7 @@
   **_Mpunna moi._**
   
   
-  ## 🌆 Previous Edition pics
+  ## 🌆 2022 Edition pics
   Our AI-enhanced 2022 poster:
   <p align="center">
     <img src="./img/locandina1.jpg" width="32%" />
