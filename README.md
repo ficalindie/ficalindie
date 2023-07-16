@@ -61,5 +61,5 @@
       life_points[nu_cristianu] += 1
       log.write('Mpunna moi')
 ```
-![Alt Text](./img/logo_black.jpg)
+![Alt Text](./img/logo_black.png)
 </p>
