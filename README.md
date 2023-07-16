@@ -52,7 +52,7 @@
   * T-shirts
   * Posterz
   * Stickerz
-  ↪️ [Here!](http://ficalindie.bigcartel.com)
+  * ↪️ [Here!](http://ficalindie.bigcartel.com)
 
   ## 🌇 La Genesi
   [You know](https://www.youtube.com/watch?v=VrIq0mzVn98&ab_channel=Salento420)
