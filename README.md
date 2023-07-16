@@ -47,7 +47,7 @@
 
   ## 🤖 Funny repos 
   * [Customisable PC screensaver](https://github.com/ficalindie/ficalindie_screensaver/tree/main), ficalindie branded 😎
-  * [ChatCuddhi](https://github.com/ficalindie/ChatCuddhi), a very first attempt in creating a dumb chatbot able to translate from griko (ancient Salento's dialect) and italian.
+  * [ChatCuddhi](https://github.com/ficalindie/ChatCuddhi), a very first attempt in creating a dumb chatbot able to translate from griko (ancient Salento's dialect) to italian.
 
   
   ## 🛒 Shop (GOOD STUFF)
