@@ -39,7 +39,7 @@
   
   Our incredible location:
   <p float="middle">
-    <img src="./background.jpg" width="66%"
+    <img src="./background.jpg" width="33%"
   </p>
   
   ## 🛒 Shop
