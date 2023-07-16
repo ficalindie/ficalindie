@@ -66,5 +66,7 @@
       log.write('Mpunna moi')
 ```
 <p align="center">
+    <img src="./img/logo_green.png" width="20%"
     <img src="./img/logo_black.png" width="33%"
+    <img src="./img/logo_blue.png" width="20%"
   </p>
