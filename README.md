@@ -28,13 +28,17 @@ Our AI-enhanced 2022 poster:
   <img src="./locandina3.jpg" width="32%" />
 </p>
 
-Our AI-enhanced 2022 poster:
+Our 2022 amazing artists:
 <p float="middle">
-  <img src="./locandina1.jpg" width="32%" />
-  <img src="./locandina2.jpg" width="32%" /> 
-  <img src="./locandina3.jpg" width="32%" />
+  <img src="./fs.jpg" width="32%" />
+  <img src="./ms.jpg" width="32%" /> 
+  <img src="./mn.jpg" width="32%" />
 </p>
 
+Our incredible location:
+<p float="middle">
+  <img src="./fs.jpg" width="100%"
+</p>
 
 ## 🛒 Shop
 * ↪️ [Here!](http://ficalindie.bigcartel.com)
