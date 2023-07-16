@@ -1,6 +1,7 @@
 <p align="center">
   
   # Welcome to Ficalindie's repo!
+</p>
   
   ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG91OTJjdGs3bTR1bnoxZWoyMGpscHl6am90NTg5YXkzZnB3cXFyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuJpMdkQhWr4tnz58N/giphy.gif)
   
@@ -67,4 +68,3 @@
 <p align="center">
     <img src="./img/logo_black.png" width="33%"
   </p>
-</p>
