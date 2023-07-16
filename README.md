@@ -24,21 +24,21 @@
   
   ## 🌆 Previous Edition pics
   Our AI-enhanced 2022 poster:
-  <p float="middle">
+  <p float="center">
     <img src="./img/locandina1.jpg" width="32%" />
     <img src="./img/locandina2.jpg" width="32%" /> 
     <img src="./img/locandina3.jpg" width="32%" />
   </p>
   
   Our 2022 amazing artists:
-  <p float="middle">
+  <p float="center">
     <img src="./img/fs.png" width="32%" />
     <img src="./img/ms.jpg" width="32%" /> 
     <img src="./img/mn.jpg" width="32%" />
   </p>
   
   Our incredible location:
-  <p float="middle">
+  <p float="center">
     <img src="./img/background.jpg" width="33%"
   </p>
 
@@ -61,7 +61,7 @@
       life_points[nu_cristianu] += 1
       log.write('Mpunna moi')
 ```
-<p float="middle">
+<p float="center">
     <img src="./img/logo_black.png" width="33%"
   </p>
 </p>
