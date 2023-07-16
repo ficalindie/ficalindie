@@ -1,6 +1,6 @@
 <p align="center">
   
-  # Welcome to Ficlindie's repo!
+  # Welcome to Ficalindie's repo!
   
   ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG91OTJjdGs3bTR1bnoxZWoyMGpscHl6am90NTg5YXkzZnB3cXFyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuJpMdkQhWr4tnz58N/giphy.gif)
   
@@ -41,8 +41,16 @@
   <p float="middle">
     <img src="./background.jpg" width="33%"
   </p>
+
+  ## 🤖 Funny repos 
+  * [Customisable PC screensaver](https://github.com/ficalindie/ficalindie_screensaver/tree/main), ficalindie branded 😎
+  * [ChatCuddhi](https://github.com/ficalindie/ChatCuddhi), a very first attempt in creating a dumb chatbot able to translate from griko (ancient Salento's dialect) and italian.
+
   
-  ## 🛒 Shop
+  ## 🛒 Shop (GOOD STUFF)
   * ↪️ [Here!](http://ficalindie.bigcartel.com)
+
+-----------------------------------------------------
+
 
 </p>
