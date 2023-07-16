@@ -20,6 +20,11 @@
   * 📸 photo history
   * 👕 online shop
   * 💻 funny repos
+
+  ## 💡 What does "Ficalindie" mean?
+  Ficalindie is... a bunch of prickly pears, in our local Salentinian dialect. They are one of the most distinguishible local "dogmas", 
+  a fresh fruit that can be enjoyed fresh when ripe, with their pads (nopales) being also edible. The "Ficalindie" help people during years to sustain a simple yet efficient diet,
+  and even today you can find everywhere in Salento. For free, too!
   
   ## 🌵 About us
   We are a group of five young people from [Corigliano d'Otranto](https://www.hdsalento.com/corigliano-dotranto/), 
