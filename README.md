@@ -25,7 +25,7 @@
   Ficalindie is... a bunch of prickly pears, in our local Salentinian dialect. They are one of the most distinguishible local "dogmas", 
   a fresh fruit that can be enjoyed fresh when ripe, with their pads (nopales) being also edible. The "Ficalindie" help people during years to sustain a simple yet efficient diet,
   and even today you can find everywhere in Salento (for free, wherever you find them). That's why we choose this name, to recall both the "Indie" nature of our initiative, creating a quite nice and
-  funny word pun to be easily interpreted, and for the easy engangement we want to achieve with our festival!
+  funny word pun to be easily interpreted, and the easy engangement and availability we want to achieve with our festival (like a bunch o fprickly pears, indeed).
   
   ## 🌵 About us
   We are a group of five young people from [Corigliano d'Otranto](https://www.hdsalento.com/corigliano-dotranto/), 
