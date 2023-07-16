@@ -50,7 +50,7 @@
 
   
   ## 🛒 Shop (GOOD STUFF)
-  * T-shirts
+  * T-shirtz
   * Posterz
   * Stickerz
   * ↪️ [Here!](http://ficalindie.bigcartel.com)
