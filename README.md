@@ -22,7 +22,7 @@ Through this interaction between technology and human talent, we intend to offer
 
 ## 🌆 Previous Edition pics
 Our 2022 poster:
-![alt text](https://github.com/ficalindie/ficalindie/locandina1.png "Logo Title Text 1")
+![](https://github.com/ficalindie/ficalindie/locandina1.jpg "Logo Title Text 1")
 
 ## 🛒 Shop
 * ↪️ [Here!](http://ficalindie.bigcartel.com)
