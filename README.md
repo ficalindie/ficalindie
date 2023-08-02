@@ -8,7 +8,7 @@
     <img align="left" src="./img/gmail_logo.svg" alt="Ficalindie | GMail" width="35px"/>
   </a>
   <a href="https://t.me/ficalindiefest">
-    <img align="left" src="./img/telegram_logo.svg" alt="Ficalindie | Telegram" width="30px"/>
+    <img align="left" src="./img/tg_logo.png" alt="Ficalindie | Telegram" width="30px"/>
   </a>
 </p>
 
