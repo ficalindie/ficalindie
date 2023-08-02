@@ -2,13 +2,13 @@
   
   # Welcome to Ficalindie's repo!
   <a href="https://www.instagram.com/ficalindie/">
-    <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Ficalindie | Instagram" width="30px"/>
+    <img align="left" src="./img/ig_logo.svg" alt="Ficalindie | Instagram" width="30px"/>
   </a>
   <a href="mailto:ficalindiefest@gmail.com">
-    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Ficalindie | GMail" width="35px"/>
+    <img align="left" src="./img/gmail_logo.svg" alt="Ficalindie | GMail" width="35px"/>
   </a>
   <a href="https://t.me/ficalindiefest">
-    <img align="left" src="https://www.svgrepo.com/show/3109/telegram.svg" alt="Ficalindie | Telegram" width="30px"/>
+    <img align="left" src="./img/telegram_logo.svg" alt="Ficalindie | Telegram" width="30px"/>
   </a>
 </p>
 
